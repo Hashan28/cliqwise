@@ -25,7 +25,7 @@ export const services = [
 export const SEpackages = [
   {
     name: "Basic Plan",
-    price: "Rs: 5,000",
+    price: "Rs: 55,000",
     description: "Perfect for startups and small businesses looking to establish their online presence.",
     features: [
       "Facebook channel growth",
@@ -38,7 +38,7 @@ export const SEpackages = [
   },
   {
     name: "Standard Plan",
-    price: "Rs: 7,500",
+    price: "Rs: 65,000",
     description: "Ideal for growing businesses aiming to boost engagement and brand awareness.",
     features: [
       "Facebook channel growth",
@@ -51,7 +51,7 @@ export const SEpackages = [
   },
   {
     name: "Premium Plan",
-    price: "Rs: 17,500",
+    price: "Rs: 75,000",
     description: "Designed for established brands looking for a complete, hands-off social media solution.",
     features: [
       "Facebook , Instagram , one social-media platform of your choice (Tiktok)",
@@ -67,7 +67,7 @@ export const SEpackages = [
 export const Webpackages = [
   {
     name: "Basic Plan",
-    price: "Rs: 20,000.00",
+    price: "Rs: 55,000.00",
     description: "Perfect for individuals and small businesses needing a simple, elegant online presence.",
     features: [
       "Responsive (mobile-friendly) & Unique Design",
@@ -81,7 +81,7 @@ export const Webpackages = [
   },
   {
     name: "Standard Plan",
-    price: "Rs: 65,000.00",
+    price: "Rs: 70,000.00",
     description: "Ideal for growing businesses that need a more dynamic and feature-rich website.",
     features: [
       "Responsive (mobile-friendly) and Unique Design",
